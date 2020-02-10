@@ -1,0 +1,227 @@
+[
+    {
+        "0": "Etc/GMT+12"
+    },
+    {
+        "1": "Pacific/Samoa"
+    },
+    {
+        "2": "Pacific/Honolulu"
+    },
+    {
+        "3": "America/Anchorage"
+    },
+    {
+        "4": "America/Tijuana"
+    },
+    {
+        "10": "America/Denver"
+    },
+    {
+        "13": "America/Chihuahua"
+    },
+    {
+        "15": "America/Phoenix"
+    },
+    {
+        "20": "America/Chicago"
+    },
+    {
+        "25": "America/Regina"
+    },
+    {
+        "30": "America/Mexico_City"
+    },
+    {
+        "33": "America/Mexico_City"
+    },
+    {
+        "35": "America/New_York"
+    },
+    {
+        "40": "America/Indiana/Indianapolis"
+    },
+    {
+        "45": "America/Bogota"
+    },
+    {
+        "50": "America/Halifax"
+    },
+    {
+        "55": "America/Caracas"
+    },
+    {
+        "56": "America/Santiago"
+    },
+    {
+        "60": "America/St_Johns"
+    },
+    {
+        "65": "America/Sao_Paulo"
+    },
+    {
+        "70": "America/Argentina/Buenos_Aires"
+    },
+    {
+        "73": "America/Godthab"
+    },
+    {
+        "75": "America/Noronha"
+    },
+    {
+        "80": "Atlantic/Azores"
+    },
+    {
+        "83": "Atlantic/Cape_Verde"
+    },
+    {
+        "85": "Europe/London"
+    },
+    {
+        "90": "Africa/Casablanca"
+    },
+    {
+        "95": "Europe/Belgrade"
+    },
+    {
+        "100": "Europe/Sarajevo"
+    },
+    {
+        "105": "Europe/Brussels"
+    },
+    {
+        "110": "Europe/Amsterdam"
+    },
+    {
+        "113": "Africa/Lagos"
+    },
+    {
+        "115": "Europe/Bucharest"
+    },
+    {
+        "120": "Africa/Cairo"
+    },
+    {
+        "125": "Europe/Helsinki"
+    },
+    {
+        "130": "Europe/Athens"
+    },
+    {
+        "135": "Asia/Jerusalem"
+    },
+    {
+        "140": "Africa/Maputo"
+    },
+    {
+        "145": "Europe/Moscow"
+    },
+    {
+        "150": "Asia/Riyadh"
+    },
+    {
+        "155": "Africa/Nairobi"
+    },
+    {
+        "158": "Asia/Baghdad"
+    },
+    {
+        "160": "Asia/Tehran"
+    },
+    {
+        "165": "Asia/Dubai"
+    },
+    {
+        "170": "Asia/Baku"
+    },
+    {
+        "175": "Asia/Kabul"
+    },
+    {
+        "180": "Asia/Yekaterinburg"
+    },
+    {
+        "185": "Asia/Karachi"
+    },
+    {
+        "190": "Asia/Kolkata"
+    },
+    {
+        "193": "Asia/Kathmandu"
+    },
+    {
+        "195": "Asia/Dhaka"
+    },
+    {
+        "200": "Asia/Kolkata"
+    },
+    {
+        "201": "Asia/Almaty"
+    },
+    {
+        "203": "Asia/Rangoon"
+    },
+    {
+        "205": "Asia/Bangkok"
+    },
+    {
+        "207": "Asia/Krasnoyarsk"
+    },
+    {
+        "210": "Asia/Shanghai"
+    },
+    {
+        "215": "Asia/Singapore"
+    },
+    {
+        "220": "Asia/Taipei"
+    },
+    {
+        "225": "Australia/Perth"
+    },
+    {
+        "227": "Asia/Irkutsk"
+    },
+    {
+        "230": "Asia/Seoul"
+    },
+    {
+        "235": "Asia/Tokyo"
+    },
+    {
+        "240": "Asia/Yakutsk"
+    },
+    {
+        "245": "Australia/Darwin"
+    },
+    {
+        "250": "Australia/Adelaide"
+    },
+    {
+        "255": "Australia/Sydney"
+    },
+    {
+        "260": "Australia/Brisbane"
+    },
+    {
+        "265": "Australia/Hobart"
+    },
+    {
+        "270": "Asia/Vladivostok"
+    },
+    {
+        "275": "Pacific/Guam"
+    },
+    {
+        "280": "Asia/Magadan"
+    },
+    {
+        "285": "Pacific/Fiji"
+    },
+    {
+        "290": "Pacific/Auckland"
+    },
+    {
+        "300": "Pacific/Tongatapu"
+    }
+]
